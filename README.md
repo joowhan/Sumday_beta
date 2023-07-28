@@ -38,3 +38,18 @@ samples, guidance on mobile development, and a full API reference.
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
   <img src="https://img.shields.io/badge/Microsoft%20Teams-2C3795?style=for-the-badge&logo=microsoftteams&logoColor=white">
 </div>
+
+---
+
+## 주요 기능
+
+### ✨ 위치 정보 기반 AI 그림일기 생성
+- 백그라운드에서 사용자의 위치를 기록하여 사용자 방문 장소 등 필요한 키워드 추출
+- 정확한 일기 생성을 위해 사용자 피드백 진행
+- 키워드를 바탕으로 일기 텍스트 생성 및 이미지 생성
+
+### ✨ 교환 일기
+- 생성한 일기를 원하는 사용자들끼리 공유할 수 있는 교환일기 서비스
+- 초대코드를 통해 사용자 초대
+- 순서대로 작성할 수 있으며, 교환 일기 작성 시 자동으로 다음 차례로 넘어감
+- 24시간 내 작성한 AI 그림일기를 업로드 가능
