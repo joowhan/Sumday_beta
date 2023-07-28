@@ -10,8 +10,9 @@ import 'package:sumday/providers/generate_provider.dart';
 import 'package:intl/intl.dart';
 import 'package:animated_text_kit/animated_text_kit.dart';
 
+// gpt api 키 입력, uri 입력
 const apiKey = 'your api key';
-const apiUrl = 'https://api.openai.com/v1/completions';
+const apiUrl = 'your api urls';
 
 class GenerateDiary extends StatefulWidget {
   final List<UserForm> dataList;
